@@ -2,3 +2,4 @@
 
 My journey in the AI landscape has equipped me with a deep understanding of GCP and AWS, enabling me to design and implement cutting-edge solutions that harness the power of cloud computing. My proficiency extends to diverse tech stacks, showcasing my adaptability and versatility in addressing complex challenges.
  
+ 
